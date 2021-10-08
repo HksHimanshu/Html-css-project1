@@ -71,3 +71,16 @@
      cursor: pointer;
    }
    
+   .btnn{
+     margin-left: 50px;
+     text-decoration: none;
+     margin-top: 10px;
+
+   }
+   .in_btnn{
+     text-decoration: none;
+   }
+
+   .in_btnn:hover{
+     color: red;
+   }

@@ -103,25 +103,27 @@ ul li a:hover{
 
 .content{
     /* width: 50; */
-    height: auto;
-    margin:auto;
-    position: relative;
+    /* height: auto; */
+    /* margin:auto; */
+    /* position: relative; */
 }
 
 .head1{
     margin-top: 100px;
     padding-left:20px;
     line-height: 35px;
-    margin-left: 10;
-}
-
-.par{
     margin-left: 20px;
 }
 
-.head3{
+.par{
     margin-left: 30px;
-    margin-top: 30px;
+    margin-top: 10px;
+
+}
+
+.head3{
+    margin-left: 100px;
+    margin-top: 20px;
 }
 
 
