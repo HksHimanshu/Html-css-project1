@@ -2,20 +2,7 @@
     background-image: url(/Photo/background3.jpeg);
     position: cover;
 }
-
-
-
-/* .form{
-    width: 250px;
-    height: 380px;
-     /* background: linear-gradient(to top, rgba(0,0,0,0.8)50%, rgba(0,0,0,0.8)50%); */
-    /* position: absolute;
-    top: -270px;
-    left: 870px;
-    border-radius: 10px;
-    padding: 25px; */ 
-
-.form {
+ .form {
     margin-top: 45%px;
     margin-left: 35%;
     font-size: 45px;
@@ -69,8 +56,21 @@ color:red;
     
 }
 
+.home_page{
+    text-decoration: none;
+    border: 3px;
+}
 
+.btn_next{
+    border:2px;
 
+}
+.link{
+    width: 430px;
+    border-radius: 5px;
+    text-align: center;
+    background: none;
+}
 /* .form h2{
     width: 220px;
     font-family: sans-serif;

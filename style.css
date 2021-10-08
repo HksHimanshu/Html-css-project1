@@ -37,6 +37,7 @@
     width: 900px;
     float: left;
     height: 70px;
+    background: none;
 }
 
 ul{
@@ -44,6 +45,7 @@ ul{
     display: flex;
     justify-content: center;
     align-items: center;
+    background: none;
 }
 
 ul li{
@@ -58,6 +60,8 @@ ul li a{
     columns: black;
     font-family: Arial;
     font-weight: bold;
+    background: none;
+    font-size: 18px;
 }
 
 ul li a:hover{
@@ -69,6 +73,7 @@ ul li a:hover{
     float: right;
     margin-top: 9px;
     margin-right: 25px;
+    background:none;
 }
 
 .search{
@@ -105,6 +110,7 @@ ul li a:hover{
     /* width: 50; */
     /* height: auto; */
     /* margin:auto; */
+    background: none;
     /* position: relative; */
 }
 
@@ -114,10 +120,14 @@ ul li a:hover{
     line-height: 35px;
     margin-left: 20px;
 }
+/* h1.head1{
+    background-color: yellow;
+} */
 
 .par{
     margin-left: 30px;
     margin-top: 10px;
+    /* background: none; */
 
 }
 

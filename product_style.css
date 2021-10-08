@@ -65,7 +65,7 @@
      padding:10px;
    }
    button:hover{
-     background-color: black;
+     background-color:pink;
      color: white;
      transition: .5s;
      cursor: pointer;
@@ -77,10 +77,12 @@
      margin-top: 10px;
 
    }
-   .in_btnn{
+   .in_bttn{
      text-decoration: none;
+     background:none;
+
    }
 
-   .in_btnn:hover{
+   .in_bttn:hover{
      color: red;
    }
