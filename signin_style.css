@@ -1,5 +1,5 @@
 *{
-    background-image: url(/Photo/background3.jpeg);
+    background-image: url(/background3.jpeg);
     position: cover;
 }
  .form {
@@ -59,10 +59,15 @@ color:red;
 .home_page{
     text-decoration: none;
     border: 3px;
+    
 }
 
 .btn_next{
-    border:2px;
+    border:5px;
+    height: 37px;
+    border-radius: 5px;
+    border-color: black;
+    box-shadow: black;
 
 }
 .link{
