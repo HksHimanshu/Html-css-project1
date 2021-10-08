@@ -1,0 +1,205 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* box-sizing: border-box; */
+    /* background-image: url(/Photo/Mercedez\ Benz\ class\ A.webp); */
+    background-image: url(/Photo/Mercedez\ Benz\ class\ A.webp);
+}
+
+.main{
+    width: 100%;
+
+}
+
+.navbar{
+    width: 1200px;
+    height: 75px;
+    margin: auto;
+}
+
+.icon{
+    width: 350px;
+    float: left;
+    height: 70px;
+}
+
+.logo{
+    color:black;
+    font-size: 28px ;
+    font-family: Arial;
+    padding-left: 20px;
+    float: left;
+    padding-top: 10px;
+
+}
+
+.menu{
+    width: 900px;
+    float: left;
+    height: 70px;
+}
+
+ul{
+    float: left;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
+
+ul li{
+    list-style: none;
+    margin-left : 62px;
+    margin-top: 27px;
+    font-size: 14px;
+
+}
+ul li a{
+    text-decoration: none;
+    columns: black;
+    font-family: Arial;
+    font-weight: bold;
+}
+
+ul li a:hover{
+    color: orange;
+}
+
+.search_bar{
+    width: 260px;
+    float: right;
+    margin-top: 9px;
+    margin-right: 25px;
+}
+
+.search{
+    font-family: 'Times New Roman';
+    width: 200px;
+    height: 40px;
+    background:transparent;
+    border: 1px solid black;
+    margin-top: 13px;
+    color: whitesmoke;
+    border-right: none;
+    font-size: 16px;
+    padding: 10px;
+    border-bottom-left-radius: 5px;
+    border-top-left-radius: 5px;
+
+}
+.btn{
+    width: 50px;
+    height: 40px;
+    background:black;
+    border:2px;
+    color: white;
+    font-size: 15px;
+    border-bottom-right-radius: 5px;
+    
+}
+
+.btn :hover{
+    color: orange;
+}
+
+.content{
+    /* width: 50; */
+    height: auto;
+    margin:auto;
+    position: relative;
+}
+
+.head1{
+    margin-top: 100px;
+    padding-left:20px;
+    line-height: 35px;
+    margin-left: 10;
+}
+
+.par{
+    margin-left: 20px;
+}
+
+.head3{
+    margin-left: 30px;
+    margin-top: 30px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+.navbar{
+    /* background-color: pink; */
+    height: 80px;
+    width: 100%;
+    /* border-radius: 10px; */
+}
+.new{
+    /* background-color: red; */
+    width: 80%;
+    margin: auto;
+    align-items: center;
+    display: flex;
+}
+
+.nav-items img{
+    width: 80px;
+    margin: auto;
+}
+
+.nav-items{
+    display:flex;
+    /* background-color: purple; */
+    margin: auto;
+    width: 15%;
+    
+}
+
+.nav-link{
+    /* background-color:yellow; */
+    /* position: relative; */
+    border-radius: 5px;
+    text-decoration: none;
+    /* display: block; */
+    /* padding: 6px 15px 9px 15px; */
+    padding: 2% 2% 2% 2%;
+    font-weight: bold;
+    color:black;
+    /* margin: 4px 60px; */
+    margin:  2% 2% 2% 2%;
+    /* text-align: center; */
+    margin: auto;
+}
+
+
+/* .nav-items :hover{
+    background-color:whitesmoke;
+} */
+
+/* .h1{
+    color: red ;
+
+} */
+
+
+
+
+
+
+
+
+
+
+
+
+

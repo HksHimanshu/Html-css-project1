@@ -1,0 +1,25 @@
+*{
+    margin: 0%;
+    padding: 0%;
+    /* background-image: url(/Photo/background2.jpeg); */
+}
+.main{
+    margin-top: 50px;
+    margin-left: 25%;
+    font-size: 40px;
+}
+
+.form{
+    margin-left: 25%;
+    margin-top: 30px;
+    border-radius: 7px;
+}
+.abc{
+    margin-top: 25px;
+    /* padding: 5px 5px 5px 5px; */
+    width: 150px;
+}
+.n_btn{
+    text-decoration: none;
+    border-radius: 2px;
+}
